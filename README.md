@@ -65,9 +65,6 @@ Atualmente aprofundando meus conhecimentos em:
 - 🌐 **Redes de Computadores**
 - 🔎 Conceitos de **SOC e monitoramento de segurança**
 - 🐍 **Python** aplicado à tecnologia e segurança
-- ☕ **Java & Spring Boot**
-- ⚛️ **React & JavaScript**
-- 🗄️ **APIs REST e Banco de Dados**
 
 ---
 
