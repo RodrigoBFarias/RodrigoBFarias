@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o [Rodrigo Batista de Farias] 👋
 
 Desenvolvedor(a) focado(a) em criar soluções eficientes e com código limpo. Apaixonado(a) por tecnologia e aprendizado contínuo.
 
@@ -25,14 +25,9 @@ Desenvolvedor(a) focado(a) em criar soluções eficientes e com código limpo. A
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170"/>
-</p>
-
 ---
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-farias-37b848323/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rodrigo.bfarias01@gmail.com)
